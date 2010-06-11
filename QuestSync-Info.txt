@@ -1,0 +1,3 @@
+QuestSync
+--------------------
+-Will alert those in your party / raid / guild that have QuestSync installed, when you level up.

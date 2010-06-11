@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: QuestSync
+## Author: Xruptor (Creator of ItemSync)
+## Version: 2.1
+## Notes: View party member quests and compare with your quests.
+## SavedVariables: QuestSyncDB
+## OptionalDeps: Dongle, ChatThrottleLib
+
+Dongle.lua
+ChatThrottleLib.lua
+QuestSync.lua
